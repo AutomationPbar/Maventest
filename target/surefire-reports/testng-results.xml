@@ -2,27 +2,27 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="26" started-at="2018-08-03T06:32:56Z" finished-at="2018-08-03T06:32:56Z">
+  <suite name="Suite" duration-ms="34" started-at="2018-08-03T06:36:51Z" finished-at="2018-08-03T06:36:51Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="26" started-at="2018-08-03T06:32:56Z" finished-at="2018-08-03T06:32:56Z">
+    <test name="Test" duration-ms="34" started-at="2018-08-03T06:36:51Z" finished-at="2018-08-03T06:36:51Z">
       <class name="core.Mavenfirst">
-        <test-method status="PASS" signature="div()[pri:0, instance:core.Mavenfirst@2669b199]" name="div" duration-ms="8" started-at="2018-08-03T12:02:56Z" finished-at="2018-08-03T12:02:56Z">
+        <test-method status="PASS" signature="div()[pri:0, instance:core.Mavenfirst@2669b199]" name="div" duration-ms="9" started-at="2018-08-03T12:06:51Z" finished-at="2018-08-03T12:06:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- div -->
-        <test-method status="PASS" signature="sub()[pri:0, instance:core.Mavenfirst@2669b199]" name="sub" duration-ms="0" started-at="2018-08-03T12:02:56Z" finished-at="2018-08-03T12:02:56Z">
+        <test-method status="PASS" signature="sub()[pri:0, instance:core.Mavenfirst@2669b199]" name="sub" duration-ms="1" started-at="2018-08-03T12:06:51Z" finished-at="2018-08-03T12:06:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sub -->
-        <test-method status="PASS" signature="sum()[pri:0, instance:core.Mavenfirst@2669b199]" name="sum" duration-ms="0" started-at="2018-08-03T12:02:56Z" finished-at="2018-08-03T12:02:56Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- sum -->
-        <test-method status="PASS" signature="multi()[pri:0, instance:core.Mavenfirst@2669b199]" name="multi" duration-ms="0" started-at="2018-08-03T12:02:56Z" finished-at="2018-08-03T12:02:56Z">
+        <test-method status="PASS" signature="multi()[pri:0, instance:core.Mavenfirst@2669b199]" name="multi" duration-ms="0" started-at="2018-08-03T12:06:51Z" finished-at="2018-08-03T12:06:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- multi -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:core.Mavenfirst@2669b199]" name="sum" duration-ms="0" started-at="2018-08-03T12:06:51Z" finished-at="2018-08-03T12:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
       </class> <!-- core.Mavenfirst -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
