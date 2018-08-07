@@ -12,7 +12,7 @@ public class Mavenfirst {
 		int a = 5;
 		int b = 10;
 		
-		Assert.assertEquals(a+b,15);
+		Assert.assertEquals(a+b,20);
 	}
 	
 	@Test
